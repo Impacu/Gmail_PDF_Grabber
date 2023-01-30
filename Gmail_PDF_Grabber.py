@@ -39,4 +39,4 @@ for msg_id in messages:
                 f.write(part.get_payload(decode=True))
 # Still trying to figure out now how to print files created in the day
 #Also want to use Task Scheduler that is preinstalled on Windows to run this code everyday
-#So I wont even have to click on a buttom! It would just auto print
+#So I wont even have to click on a button! It would just auto print
